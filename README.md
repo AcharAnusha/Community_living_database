@@ -32,6 +32,6 @@ This is a ticket management application for residential communities. Residents c
 
 ## How to run?
 
-Install dependencies and specify host, user, database and password to mysql.connecttor
+Install dependencies and specify host, user, database and password to mysql.connector
 (in streamlit-and-mysql-ui/database.py), create database and run using streamlit run app.py
 This will start the Streamlit server, and you can access the application in your web browser at http://localhost:8501.
